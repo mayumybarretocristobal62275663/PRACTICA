@@ -1,3 +1,3 @@
 #  PracticadeGestionSistemas-
-Jean Carlos Meza Chuquillanqui
+mayumy
 Arquitectura de Plataformas STI
